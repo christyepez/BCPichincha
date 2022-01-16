@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestBP", "ApiRestBP\ApiRestBP.csproj", "{38F8EE2F-3E23-4B8D-833F-412629BAACE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{58D64A5B-9112-4A4D-8796-BBB71752E6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F8EE2F-3E23-4B8D-833F-412629BAACE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F8EE2F-3E23-4B8D-833F-412629BAACE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F8EE2F-3E23-4B8D-833F-412629BAACE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F8EE2F-3E23-4B8D-833F-412629BAACE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D64A5B-9112-4A4D-8796-BBB71752E6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D64A5B-9112-4A4D-8796-BBB71752E6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D64A5B-9112-4A4D-8796-BBB71752E6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D64A5B-9112-4A4D-8796-BBB71752E6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C3CF623-7BB7-4CC7-B999-43B2FCF150C3}
+	EndGlobalSection
+EndGlobal
